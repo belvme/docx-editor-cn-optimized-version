@@ -1,4 +1,4 @@
-# 📄 docx-editor-cn
+# docx-editor-cn · 中文 Word 文档处理技能（优化版）
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Node.js-339933?style=flat-square&logo=node.js" alt="Node.js">
@@ -8,9 +8,11 @@
 </p>
 
 <p align="center">
-  <strong>🎓 中文学术文档编辑器 Skill</strong><br>
-  用于 AI Agent 按照规定格式编辑 Word 文档或将 Markdown 转换为 docx
+  <strong>面向中文论文与报告的 Word 文档处理 Skill</strong><br>
+  支持 Markdown 转 Word、现有文档编辑与格式保留，涵盖原生多级标题、章节题注、三线表和可编辑公式。
 </p>
+
+在原有 docx-editor-cn 基础上，优化标题编号、章节关联题注和参考文档格式保留流程。适用于中文学术论文、行业报告及 Word 模板，也支持文档读取分析、修订与批注。
 
 ---
 
