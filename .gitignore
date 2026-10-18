@@ -1,0 +1,28 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+
+# Dependencies, caches, and backups
+node_modules/
+__pycache__/
+*.py[cod]
+*.backup-*
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+
+# Local input/output documents
+*.doc
+*.docx
+*.pdf
+~$*
+output/
+outputs/
+unpacked/
