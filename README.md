@@ -4,9 +4,7 @@
 
 ## 原版来源
 
-本项目基于 **[Gostyan/docx-skill-4-cn-paper](https://github.com/Gostyan/docx-skill-4-cn-paper)** 中的 **[docx-editor-cn](https://github.com/Gostyan/docx-skill-4-cn-paper/tree/main/docx-editor-cn)** 技能进行调整，由 **belvme** 整理维护此优化版本。
-
-感谢原作者 **[Gostyan](https://github.com/Gostyan)** 提供中文论文排版的基础实现。Markdown 转换、三线表、公式转换、修订批注及 Office XML 工具等基础能力来自原项目。本仓库保留原作者版权声明与 [MIT 许可证](LICENSE.txt)。
+基于 **[Gostyan 的 docx-skill-4-cn-paper](https://github.com/Gostyan/docx-skill-4-cn-paper)**，沿用其 Word 排版与转换基础能力，由 **belvme** 优化维护，保留原作者署名及 [MIT 许可证](LICENSE.txt)。
 
 ## 本版本重点调整
 
